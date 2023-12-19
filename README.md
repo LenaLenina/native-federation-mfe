@@ -14,3 +14,7 @@ ng add @angular-architects/native-federation --project mfe --port 4201 --type re
 ng serve mfe -o
 
 npm run build
+
+## deployed application
+
+https://mfe1-native123456789.netlify.app/
